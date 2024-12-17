@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-# Telegram bot tokenini kiritish
+# Telegram bot tokenini kiritishi
 TOKEN = "7710185819:AAFl02pgP1yJ5FnYiQaKqs9m7DWOz8LiUUQ"  # Bot tokeningizni bu yerga joylashtiring
 bot = telebot.TeleBot(TOKEN)
 
